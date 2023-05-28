@@ -91,6 +91,7 @@ function Invoice() {
                     <div>
                         <p className='font-bold text-sm  text-gray-500'>Terms & Conditions</p>
                         <p>Please ensure to make the payments on time to avoid late payment fees.</p>
+                        <p>fucvk you</p>
                     </div>
                 </div>
             </div >

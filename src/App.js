@@ -1,9 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Invoice from "./components/Invoice";
+import InvoiceSecond from "./components/InvoiceSecond";
 
 function App() {
-  return <Invoice />;
+  return <InvoiceSecond />;
 }
 
 export default App;
